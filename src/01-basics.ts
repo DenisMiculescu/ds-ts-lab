@@ -21,7 +21,7 @@ const friend2 : Friend = {
 
   //   -------------------  	//
 
-  let colleague1: Colleague = {
+  const colleague1: Colleague = {
     name: "Ralph Graham",
     department: "Engineering",
     contact: {
@@ -30,7 +30,7 @@ const friend2 : Friend = {
     },
   };
   
-  let colleague2: Colleague = {
+  const colleague2: Colleague = {
     name: "Patti Burke",
     department: "Finance",
     contact: {
@@ -39,7 +39,7 @@ const friend2 : Friend = {
     },
   };
   
-  let colleague3: Colleague = {
+  const colleague3: Colleague = {
     name: "Dean Sullivan",
     department: "HR",
     contact: {
